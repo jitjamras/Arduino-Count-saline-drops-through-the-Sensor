@@ -1,5 +1,5 @@
 # Arduino-Count-saline-drops-through-the-Sensor
-Mini-Project Code นับหยดน้ำเกลือผ่าน Sensor โดยใช้ Arduino
+Mini-Project นับหยดน้ำเกลือผ่าน Sensor โดยใช้ Arduino
 
 ![379634300_6863715800315055_9045209589015592737_n](https://github.com/jitjamras/Arduino-Count-saline-drops-through-the-Sensor/assets/87308156/2ddea487-b8ea-499e-9457-14df8c7e5445)
 
